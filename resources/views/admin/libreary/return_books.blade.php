@@ -2,7 +2,7 @@
 @extends('admin/layout')
 
 @section('content')
-<h1>Books Taken</h1>
+<h1>Books Taken  </h1>
 <div>
     <table class="table">
         <thead>
