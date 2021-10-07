@@ -9,12 +9,13 @@ Features:
 ✓  Class Management.
 ✓  Student payments Management.
 ✓  Libreary Details Management.
-![Screenshot (41)](https://user-images.githubusercontent.com/47468706/136335597-abc4c1be-0405-4cec-8175-851642f7ff00.png)
-![Screenshot (42)](https://user-images.githubusercontent.com/47468706/136335603-8da399e7-ab97-455a-905b-5800541d3092.png)
-![Screenshot (43)](https://user-images.githubusercontent.com/47468706/136335606-35f5a46c-c39b-4c05-9bcd-c4db6a8576d5.png)
-![Screenshot (44)](https://user-images.githubusercontent.com/47468706/136335608-dfd816f2-62bb-40f9-9d12-a369ef185ddf.png)
-![Screenshot (45)](https://user-images.githubusercontent.com/47468706/136335611-767d60e9-9c81-4051-9040-2713e6930a59.png)
-![Screenshot (46)](https://user-images.githubusercontent.com/47468706/136335613-c6edf886-e32b-4f52-a07d-0f95ad583864.png)
-![Screenshot (47)](https://user-images.githubusercontent.com/47468706/136335615-5cbf78c9-a542-41ca-8b7f-eed22825bcb1.png)
-![Screenshot (48)](https://user-images.githubusercontent.com/47468706/136336035-2d85965c-0a40-43f7-99c0-8394421d6d90.png)
+![Screenshot (41)](https://user-images.githubusercontent.com/47468706/136336755-6627140f-b7cc-49dc-8863-81b37776da7c.png)
+![Screenshot (42)](https://user-images.githubusercontent.com/47468706/136336761-8f21f48b-1861-44a0-b578-6826d824b89e.png)
+![Screenshot (43)](https://user-images.githubusercontent.com/47468706/136336764-ebc2e4bd-de6f-473a-8815-0c6a2a363bf6.png)
+![Screenshot (44)](https://user-images.githubusercontent.com/47468706/136336767-a0e5ed6d-2d1f-4851-8ca8-aea5b775abee.png)
+![Screenshot (45)](https://user-images.githubusercontent.com/47468706/136336769-353a9307-d9c8-4790-aeb0-70a868eef68f.png)
+![Screenshot (46)](https://user-images.githubusercontent.com/47468706/136336773-cc892387-d8f4-486a-ba1c-ed48a1a45afc.png)
+![Screenshot (47)](https://user-images.githubusercontent.com/47468706/136336779-23fbd3c5-cbb6-4cb4-8076-62995adf82df.png)
+![Screenshot (48)](https://user-images.githubusercontent.com/47468706/136336781-b4ed6652-1749-4c19-809f-9f31dc54705e.png)
+
 
